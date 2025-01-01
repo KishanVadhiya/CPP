@@ -1,5 +1,5 @@
 // Surrounded Region Leet url - https://leetcode.com/problems/surrounded-regions/
-
+// We need to remove surrounded regions from the board
 
 #include <iostream>
 #include <vector>
