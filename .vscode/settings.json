@@ -1,12 +1,6 @@
 {
     "files.associations": {
-        "unordered_set": "cpp",
-        "vector": "cpp",
-        "iostream": "cpp",
-        "string": "cpp",
-        "unordered_map": "cpp",
-        "ostream": "cpp",
-        "iomanip": "cpp",
-        "climits": "cpp"
+        "__hash_table": "cpp",
+        "unordered_map": "cpp"
     }
 }
